@@ -25,13 +25,6 @@ def main():
         usageRate = 20
     #Outcome message
     print("Your Total charge is: ${0:.2f}".format(usageRate))
-
-
-
-
-
-
-
     # YOUR CODE ENDS HERE
 
 main()
